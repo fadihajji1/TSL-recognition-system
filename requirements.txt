@@ -1,0 +1,2 @@
+# Only what Phase 1 needs; PyTorch will be installed in the training phase.
+Pillow>=10.0,<14.0

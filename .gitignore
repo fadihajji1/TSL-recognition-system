@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/original/
+data/processed/
+data/splits/
+reports/dataset-audit/
+models/
